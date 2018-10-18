@@ -1,2 +1,2 @@
-# GoXploits.github.io
+# Cheezycodes.com
 GitHub Pages
